@@ -18,7 +18,7 @@ banner = f'''{C.YELLOW}
 ▐█· ▐█▌█▌▐█▌▐█ ▌▐▌▐█·▄█▀▀█ ▐█·██▪  
 ██. ██ ▐█▄█▌██ ██▌▐█▌▐█ ▪▐▌▐█▌▐█▌▐▌
 ▀▀▀▀▀•  ▀▀▀ ▀▀  █▪▀▀▀ ▀  ▀ ▀▀▀.▀▀▀ 
-{C.LIGHTYELLOW_EX} by https://lolz.guru/db7f88a/
+{C.LIGHTYELLOW_EX} by https://lolz.guru/members/2977610/
 '''
 print(banner)
     #не удаляй
